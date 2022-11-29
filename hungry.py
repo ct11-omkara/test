@@ -3,3 +3,4 @@ if hungry=="yes" or hungry=="Yes":
     print("eat samosa")
 else:
     print("do your homework")
+print("Nice work to done...")
