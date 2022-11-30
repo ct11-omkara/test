@@ -5,4 +5,5 @@ if hungry=="yes" or hungry=="Yes":
 else:
     print("do your homework")
     print("yes all changes happened....")
+    print("eat fries.")
 print("Nice work to done...")
